@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Mali&display=swap');
+.container {
+   display: grid;
+   grid-template-columns: 50% 50% ; 
+}
+
+.left_application {
+    background-color: #bcd1fe;
+    height: 100vh;
+    position: relative;
+}
+
+.left_application img {
+    display: block;
+    margin: auto;
+}
+
+.text_future {
+    text-align: center;
+}
+
+.text_future h1 {
+    font-family: 'Mali', cursive;
+    padding: 10px ;
+    font-size: 2.6em;
+}
+
+.text_future p {
+    font-family: 'Mali', cursive;
+    font-size: 23px;
+}
